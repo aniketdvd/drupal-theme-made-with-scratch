@@ -1,0 +1,13 @@
+name: aniketdvdgcitheme
+description: This is a theme made with Bulma CSS for D8 in GCI screencast
+type: theme
+core: 8.x
+libraries:
+  - aniketdvdgcitheme/global-styling
+regions:
+  header: content of header
+  content: all main content
+  footer: footer items
+  breadcumb: items of breadcumbs
+regions_hidden:
+  - sidebar_first
